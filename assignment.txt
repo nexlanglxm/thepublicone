@@ -1,0 +1,10 @@
+here we have a file with several instances of the word "Andrew"
+Andrew
+
+    Andrew
+
+  Andrew
+
+Andrew
+          Andrew
+notAndy
